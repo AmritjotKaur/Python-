@@ -1,6 +1,2 @@
 # Python
 My Python Projects
-1- Employee Attrition:
-In recent years, attention has increasingly been paid to human resources (HR), since worker quality and skills represent a growth factor and a real competitive advantage for companies. After proving its mettle in sales and marketing, artificial intelligence is also becoming central to employee-related decisions within HR management. Organizational growth largely depends on staff retention. Losing employees frequently impacts the morale of the organization and hiring new employees is more expensive than retaining existing ones. The key to success in any organization is attracting and retaining top talent. As an HR analyst one of the key task is to determine which factors keep employees at the company and which prompt others to leave. Given in the data is a set of data points on the employees who are either currently working within the company or have resigned. The objective is to identify and improve these factors to prevent loss of good people.
-2- Health Insurance MarketPlace:
-The data used in this project is taken from kaggle.com. It was originally prepared and released by the Centers for Medicare & Medicaid Services (CMS). The goal of this project is to get familiar with the Python basic functions and to get an exposure to a full life cycle of a data project. This data contains following datasets:
